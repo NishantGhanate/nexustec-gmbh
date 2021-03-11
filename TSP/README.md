@@ -27,9 +27,9 @@ Note: steps 4 to 6 is optional if you want to create isolated enviroment.
 
 ## Program examples images in images folder
 
-> 1 &nbsp; [Add nodes](https://github.com/NishantGhanate/nexustec-gmbh/TSP/tree/main/images/1_insert_node.png)
+ Insert nodes &nbsp; ![Insert nodes](https://raw.githubusercontent.com/NishantGhanate/nexustec-gmbh/main/TSP/images/1_insert_node.png)
 
->2 &nbsp; [Delete a nodes](https://github.com/NishantGhanate/nexustec-gmbh/TSP/tree/main/images/2_delete_node.png)
+Delete a node &nbsp; ![Delete a node](https://raw.githubusercontent.com/NishantGhanate/nexustec-gmbh/main/TSP/images/2_delete_node.png)
 
 
 ### Visual Library
